@@ -35,7 +35,7 @@ public class P006 {
 
         int sumOfSquares = sumOfSquares(100);
         int squareOfSum = squareOfSum(100);
-        
+
         System.out.println("Sum of Square: " + sumOfSquares);
         System.out.println("Square of sum: " + squareOfSum);
         System.out.println("Difference: " + (squareOfSum - sumOfSquares));
